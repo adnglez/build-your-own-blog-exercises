@@ -1,0 +1,22 @@
+---
+title: "Nueva entrada del blog"
+author: "Adán González González"
+date: "13/10/2024"
+language: 
+  title-block-author-single: "Autor"
+  title-block-published: "Actualizado"
+categories: [news]
+image: "areas.png"
+---
+
+Esto son gráficos insertados como imagen
+
+![](areas.png)
+
+## Notas
+
+R es un proyecto colaborativo con muchos contribuyentes. Escriba 'contributors()' para obtener más información y 'citation()' para saber cómo citar R o paquetes de R en publicaciones.
+
+::: callout-note
+Note that there are five types of callouts, including: `note`, `tip`, `warning`, `caution`, and `important`.
+:::

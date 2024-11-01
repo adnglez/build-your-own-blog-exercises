@@ -2,18 +2,24 @@ project:
   type: website
 
 website:
-  title: "build-your-own-blog-exercises"
+  title: "mi-blog"
   navbar:
+    # background: "#eae9dd" 
     right:
       - about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+    left: 
+      - text: "Adán González González"
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
+    highlight-style: zenburn
 
 editor: visual
 

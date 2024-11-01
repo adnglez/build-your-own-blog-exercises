@@ -1,0 +1,15 @@
+{
+  "hash": "e47d31be3f1c979d57d6a3633f4aee96",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Nueva entrada del blog\"\n#author: \"Harlow Malloc\"\ndate: \"2024-10-12\"\ncategories: [news]\nimage: \"areas.png\"\n---\n\n\n\nThis is a post with executable code.\n\n![](barras.png)\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

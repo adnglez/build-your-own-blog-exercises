@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 9ff7bb87-514d-4b38-b5b1-d82c7f98b073
+      url: 'https://adnglez.quarto.pub/mi-blog'

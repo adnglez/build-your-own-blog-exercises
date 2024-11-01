@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/nueva-entrada/index.html",
+    "href": "posts/nueva-entrada/index.html",
+    "title": "Nueva entrada del blog",
+    "section": "",
+    "text": "Esto son gráficos insertados como imagen"
+  },
+  {
+    "objectID": "posts/nueva-entrada/index.html#notas",
+    "href": "posts/nueva-entrada/index.html#notas",
+    "title": "Nueva entrada del blog",
+    "section": "Notas",
+    "text": "Notas\nR es un proyecto colaborativo con muchos contribuyentes. Escriba ‘contributors()’ para obtener más información y ‘citation()’ para saber cómo citar R o paquetes de R en publicaciones.\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, tip, warning, caution, and important."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Quisque suscipit sem ante. Pellentesque malesuada orci justo, ac eleifend libero molestie non. Phasellus suscipit orci vitae varius placerat. Maecenas pharetra pharetra lobortis. Suspendisse potenti. In hac habitasse platea dictumst. In vehicula, lectus ac sagittis sodales, sem libero ultrices nisi"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gestión, Análisis y Visualización de Datos",
+    "section": "",
+    "text": "Nueva entrada del blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 10, 2025\n\n\nAdán González González\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 28, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nAug 25, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "Tab 1Tab 2\n\n\nThis is a post with executable code.\n\n1 + 1\n\n[1] 2\n\n\n\n\nThis is a post with executable code.\n\nhead(cars) |&gt; \n  kableExtra::kable()\n\n\n\n\nspeed\ndist\n\n\n\n\n4\n2\n\n\n4\n10\n\n\n7\n4\n\n\n7\n22\n\n\n8\n16\n\n\n9\n10"
+  }
+]

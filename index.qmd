@@ -1,10 +1,10 @@
 ---
-title: "build-your-own-blog-exercises"
+title: "Gestión, Análisis y Visualización de Datos"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
+  categories: unnumbered
   sort-ui: false
   filter-ui: false
 page-layout: full

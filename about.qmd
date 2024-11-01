@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Sobre mí"
 image: profile.jpg
 about:
   template: jolla
@@ -15,7 +15,7 @@ about:
       href: https://github.com
 ---
 
-About this blog
+Quisque suscipit sem ante. Pellentesque malesuada orci justo, ac eleifend libero molestie non. Phasellus suscipit orci vitae varius placerat. Maecenas pharetra pharetra lobortis. Suspendisse potenti. In hac habitasse platea dictumst. In vehicula, lectus ac sagittis sodales, sem libero ultrices nisi
 
 <!--
 
